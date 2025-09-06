@@ -17,6 +17,5 @@ Bu proje, hasta verilerini içeren bir veri setini inceleyerek temel istatistikl
 - `README.md`: Proje açıklamaları
 ## Projeyi Çalıştırma
 1. Python 3.10 veya üzeri kurulu olmalıdır.
-2. Gerekli paketleri yükleyin:
-   ```bash
-   pip install -r requirements.txt
+
+   
